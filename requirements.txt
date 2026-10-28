@@ -1,0 +1,2 @@
+playwright>=1.61
+python-telegram-bot[job-queue]>=22.0

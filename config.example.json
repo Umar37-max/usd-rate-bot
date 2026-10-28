@@ -1,0 +1,13 @@
+{
+  "bot_token": "PUT_YOUR_BOTFATHER_TOKEN_HERE",
+  "group_chat_id": 0,
+  "allowed_user_ids": [],
+  "daily_time": "09:00",
+  "timezone": "Asia/Tashkent",
+  "bank_url": "https://ibank.trustbank.uz:224/cib/index_09030.jsp",
+  "rate_cooldown_seconds": 120,
+  "daily_retry_delay_seconds": 600,
+  "daily_max_attempts": 8,
+  "api_host": "127.0.0.1",
+  "api_port": 8777
+}
